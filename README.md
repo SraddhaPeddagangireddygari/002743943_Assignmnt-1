@@ -1,7 +1,7 @@
 # 002743943_Sraddha-Pedda-Gangireddy-Gari_Assignment-1
 The tags used in creating the ice cream shop website "The Creamery" are as follows
 
-<title>---The tag us used to define the title of the website
+<title>-The tag us used to define the title of the website
 <html>----The root of the website
 <head>----The tag contains information such as hyperlink to the css document and the favicon hyperlink
 <link>----Used to relate an external source to the website. Favicon and the css styling links are given
@@ -43,7 +43,7 @@ an external source
 <select>----The tag is used to enable a drop down list 
 <option>----The tag is used to provide options in the select tag
 <footer>----It is used to define footer of a document. In this, the tag is used to provide contact information
-of the trekking company
+of the paragliding company
 <ol>----The tag defines an ordered list.In this website,it is used to list the paragliding places
 <li>----The tag is used to define the items in the list
 <audio>----The tag is used to embed audio content from an external source
