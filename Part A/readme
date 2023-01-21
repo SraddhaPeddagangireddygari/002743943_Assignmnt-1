@@ -1,0 +1,25 @@
+The tags used in creating the icecream shop website "The Creamery" are as follows
+
+<title>---The tag is used to define the title of the website
+<html>----The root of the website
+<head>----The tag contains information such as hyperlink to the css document and the favicon hyperlink
+<link>----Used to relate an external source to the website. Favicon and the css styling links are given
+<body>----It defines the document's main information
+<header>----Defined the <h1> heading tag in the header tag
+<p>----It is used to define paragraphs. In this,document this tag is used to define a quote
+<br>----The break tag is used to separate lines wherever required
+<a>----The tag is used to provide hyperlinks. In this, It is used to take the user to the next page to order.
+<button>----The tag is used to enable an action by defining a clickable button
+<table>----The tag is used to create tables. 
+<form>----The form tag is used to collect and store required information. In this document,it is used to
+collect information regarding coffee order
+<img>----It is used to insert images either in the background or on the front. In this, the tag is used to
+add images of coffee flavours
+<tr>----Defined the rows of the table
+<td>----defined the cells of the table
+<input>----The tag is used to define input controls. This tag is used to add favicon and stylesheet in this
+document
+<label>----It is used to define the label of an element in the input
+
+
+All the requested and additional controls are used in the document.
