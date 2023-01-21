@@ -1,0 +1,39 @@
+body{
+    background-image: url("icecreambg.jfif");
+    background-size: 150%;
+    background-color:  hsl(0, 81%, 8%);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-style:oblique;
+    font-size: 45px;
+    color: burlywood;
+    background-color:rgb(46, 14, 2);
+    background-size: cover;
+    text-decoration: overline underline;
+}
+.order{
+    color:rgb(93, 93, 91);
+    font-size: 30px;
+    font-style: oblique;
+    border: rgb(214, 175, 141);
+    background-color:bisque;
+    border: rgba(209, 109, 109, 0.308);
+    width: 900px;
+    
+
+}
+tr:nth-child(odd){
+    background-color: rgba(195, 152, 112, 0.877);
+}
+.image{
+    width:100px;
+    height: 100px;
+    align-content: center;
+    
+}
+.image:hover{
+    box-shadow: 2px 2px 2px 2px beige;
+}

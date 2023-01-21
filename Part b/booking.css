@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(35, 80, 117, 0.322);
+    align-content: center;
+    background-image:url("bookin.jfif");
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+h1{
+    background-color: rgb(240, 237, 234);
+    text-align: center;
+    font-style:oblique;
+    font-size: 50px;
+    text-decoration: wavy;
+    padding-left:10px;
+    padding-bottom: 20px;
+    text-decoration: overline underline;
+    color: rgb(5, 5, 5);
+}
+.booking{
+    font-size: 20px;
+    background-color: rgb(135, 183, 231);
+    font-style: normal;
+    color: rgb(6, 6, 6);
+    align-content: center;
+    
+}
+tr:nth-child(even){
+    background-color: rgb(180, 182, 199);
+}
+footer{
+    background-color:rgb(1, 3, 8) ;
+    text-align: center;
+    width: max-width;
+    height: 100px;
+    
+}

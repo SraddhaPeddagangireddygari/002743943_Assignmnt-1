@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(112, 183, 230, 0.322);
+    align-content: center;
+    background-image:url("pgindex.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+    h1{
+    background-color: rgb(198, 251, 251);
+    text-align: center;
+    font-style:oblique;
+    font-size: 50px;
+    text-decoration: wavy;
+    padding-left:15px;
+    padding-bottom: 25px;
+    text-decoration: overline underline;
+    color: rgb(9, 9, 9);
+
+}
+.options{
+    
+    text-align:center;
+    cursor: pointer;
+    
+    
+}
+.button{
+    background-color:rgb(19, 19, 21);
+    border: rgb(202, 8, 8);
+    color: rgb(220, 215, 215);
+    text-align: center;
+    cursor: pointer;
+    width: 250px;
+    height: 60px;
+    vertical-align: middle;
+    font-style:normal;
+    font-size: 35px;
+    
+    
+}
+#glidingvideo{
+    
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

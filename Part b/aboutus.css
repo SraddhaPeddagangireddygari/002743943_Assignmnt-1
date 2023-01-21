@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(101, 183, 238, 0.322);
+    align-content: center;
+    background-image:url(bookin.jfif);
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+h1{
+    background-color: rgb(243, 242, 241);
+    text-align: center;
+    font-style:oblique;
+    font-size: 50px;
+    text-decoration: wavy;
+    padding-left:10px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    color: rgb(8, 8, 8);
+}
+h2{
+    text-align: left;
+    font-style: normal;
+    font-size: 30px;
+    color:black;
+    text-decoration: wavy;
+    text-decoration: dashed;
+}
+ol{
+list-style-type: circle;
+font-size: 25px;
+font-style: oblique;
+font-weight: bold;
+color: rgb(7, 7, 7);
+
+
+}
+p{
+    font-size: 25px;
+    font-style:normal;
+    text-decoration:solid;
+    text-decoration: wavy;
+    color: rgb(8, 8, 20);
+    border:black;
+    text-shadow: brown;
+    font-weight: bold;
+}
+footer{
+    background-color: rgb(227, 220, 210);
+    text-align: center;
+}

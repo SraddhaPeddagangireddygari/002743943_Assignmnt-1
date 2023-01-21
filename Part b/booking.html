@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book a Slot</title>
+    <link rel="icon" href="favicon1.jfif" alt="paragliding icon">
+    <link rel="stylesheet" href="booking.css">
+</head>
+<body>
+    <header>
+        <h1>
+            Book A Slot
+        </h1>
+    </header>
+    <table class="booking">
+        <form>
+            <tr>
+                <td>
+                    <label for="firstname">First Name</label>
+                    <td><input type="text" id="firstname"></td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="lastname">Last Name</label>
+                    <td><input type="text" id="lastname"></td>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    <label for="age">Age(You should be 18 or above to be eligible)</label>
+                    <td><input type="number" id="age" min="18">
+                </td>
+            </tr>
+           
+            <tr>
+                <td>
+                    <label for="state">State</label>
+                    <td><select name="state" id="state">
+                        <option value="Massachusetts">Massachusetts</option>
+                        <option value="New York">New York</option>
+                        <option value="New Jersey">New Jersey</option>
+                        <option value="Ohio">Michigan</option>
+                        <option value="Washington D.C">Illinois</option>
+                        <option value="Pennysylvania">Pennysylvania</option>
+    
+                    </select></td>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    <label for="month">Month of Trek</label>
+                <td><select name="month" class="month">
+                    <option value="January">January</option>
+                        <option value="February">February</option>
+                        <option value="March">March</option>
+                        <option value="April">April</option>
+                        <option value="May">May</option>
+                        <option value="June">June</option>
+                        <option value="July">July</option>
+                        <option value="August">August</option>
+                        <option value="September">September</option>
+                        <option value="October">October</option>
+                        <option value="November">November</option>
+                        <option value="December">December</option>
+                </select></td>
+            </tr>
+          
+            <tr>
+                <td>
+                    <label for="Date of Gliding">Date Of Gliding</label>
+                    <td><input type="number" id="number" min="1" max="31"></td>
+                </td> 
+                </tr>
+              
+            <tr>
+            <td>
+                <label for="people">Number of people</label>
+                <td><input type="number" id="number" min="1"></td>
+            </td> 
+            </tr>
+            <tr>
+                <td>
+                    <label for="condition">Past medical history</label>
+                    <td><input type="text" id="condition"></td>
+                </td>
+            </tr>
+            
+            <tr><td><input type="submit" value="Submit"></td></tr>
+        </form>
+    </table>
+    
+</body>
+</html>

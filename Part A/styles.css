@@ -1,0 +1,43 @@
+body{
+    background-image: url("icecreamm.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-color: hsl(0, 69%, 5%);
+    width: 100%;
+    height: 100%;
+    border: beige;
+    border-radius:15px;
+}
+h1{
+    text-align: center;
+    font-style:oblique;
+    font-size: 60px;
+    color:antiquewhite;
+    background-color: rgb(30, 4, 4);
+    background-size:cover;
+    text-decoration: overline underline;
+
+} 
+p{
+    text-align: center;
+    font-style: oblique;
+    color: black;
+    font-size: 40px;
+}
+.button{
+    background-color:darkgoldenrod;
+    border:black;
+    color:white;
+    text-align:center;
+    cursor:pointer;
+    width:350px;
+    height:70px;
+    vertical-align: middle;
+    font-style:normal;
+    font-size: 25px;
+    border-radius: 15px;
+}
+.button:hover{
+    background-color:beige;
+    color: sandybrown;
+}
