@@ -14,8 +14,8 @@ an external source
 <select>----The tag is used to enable a drop down list 
 <option>----The tag is used to provide options in the select tag
 <footer>----It is used to define footer of a document. In this, the tag is used to provide contact information
-of the trekking company
-<ol>----The tag defines an ordered list.In this website,it is used to list the trek places
+of the paragliding company
+<ol>----The tag defines an ordered list.In this website,it is used to list the paragliding places
 <li>----The tag is used to define the items in the list
 <audio>----The tag is used to embed audio content from an external source
 <source>---The tag is used to provide the link of the required content

@@ -12,9 +12,9 @@ The tags used in creating the icecream shop website "The Creamery" are as follow
 <button>----The tag is used to enable an action by defining a clickable button
 <table>----The tag is used to create tables. 
 <form>----The form tag is used to collect and store required information. In this document,it is used to
-collect information regarding coffee order
+collect information regarding icecream order
 <img>----It is used to insert images either in the background or on the front. In this, the tag is used to
-add images of coffee flavours
+add images of icecream flavours
 <tr>----Defined the rows of the table
 <td>----defined the cells of the table
 <input>----The tag is used to define input controls. This tag is used to add favicon and stylesheet in this
